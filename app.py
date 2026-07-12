@@ -83,10 +83,8 @@ st.markdown("---")
 st.header("💻 Developer Info")
 
 st.markdown("""
-**Developer:** Anshika Dwivedi
+**Developer:** AKSh
 
 
 
-💻 **GitHub:** https://github.com/anshii852/Covid_19
-""")
 
